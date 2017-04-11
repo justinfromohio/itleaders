@@ -1,0 +1,38 @@
+/**
+ * Theme Name: Archer
+ * Theme URI: https://themeforest.net/user/xpeedstudio/portfolio
+ * Description: A clean foundation for future WordPress themes.
+ * Version: 1.3
+ * Author: XpeedStudio
+ * Author URI: http://www.xpeedstudio.com
+ * License: GNU General Public License version 3.0
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ * Tags: one-column, two-columns, right-sidebar, left-sidebar, custom-menu, featured-images, post-formats, sticky-post, translation-ready
+ * Text Domain: archer
+ * 
+ */
+
+
+body{
+    direction:rtl;
+    unicode-bidi:embed;
+}
+.how-it-works h4, .how-it-works p {
+    margin-right: 96px;
+}
+section {
+    overflow:hidden;
+}
+.fw-row {
+    margin: 0;
+}
+
+@media (max-width:768px){
+    .how-it-works h4, .how-it-works p {
+        margin-right: 0px;
+    }
+}
+.owl-carousel {
+    direction: ltr
+}
+

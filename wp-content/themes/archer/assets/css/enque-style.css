@@ -1,0 +1,16 @@
+/* ==========================================================================
+   Enquee Style sheet for Archer - Responsive WordPress Page
+   ========================================================================== */
+.navbar-default.affix .navbar-nav > li > a:hover, .navbar-default.affix .navbar-nav > li > a:active, .mobile-nav-overlay ul li a:hover, .mobile-nav-overlay ul li a:active, .mobile-nav-overlay ul li a:focus, .navbar-nav .active .fa-times:hover, .navbar-nav .active .fa-times:active, .navbar-nav .active .fa-times:focus, .cta h2 em, .btn-secondary:hover, .btn-secondary:active, .btn-secondary:focus, .btn-secondary:active:hover, .btn-secondary:active:focus, .plan-price h5, .cta-dark .section-header h3, .team-details .owl-theme .owl-controls .owl-buttons div { color: #31aff5;}
+
+.btn, .step-number, .btn-primmary, .tooltip-inner, .faq-support, bg-color { background-color: #31aff5;}
+
+.affix .navbar-nav > li > a.btn-nav, .pointer, .cta-info .section-spacing, .btn-download:hover, .btn-download:active, .btn-download:focus, .btn-download:active:hover, .btn-download:active:focus, .twitter-reviews .owl-theme .owl-controls .owl-page span, .sl-page .chat-btn, .team-details .owl-theme .owl-controls.clickable .owl-buttons div:hover { background: #31aff5;}
+
+.cta h2 em {border-bottom: 3px solid #31aff5;}
+
+.cta .btn, .btn-download, .team-details .owl-theme .owl-controls .owl-buttons div { border: 2px solid #31aff5;}
+
+.tooltip.top .tooltip-arrow { border-top-color: #31aff5; }
+
+.sub-form .form-control:focus, .cta-light .form-control, .cta-light .form-control:focus { border-color: #31aff5;}
